@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## Team intro board
 
 ## 팀 소개
